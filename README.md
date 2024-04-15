@@ -25,4 +25,4 @@ Add the `Live Server` extension to your code editor and use it to go live.
 
 
 ## 🔗 Link to the live project
-https://fyle-project-77vm.vercel.app/
+https://fyle-project-u17k.vercel.app/
